@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>My Canada Trip</title>
+
+    <style>
+
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 30px auto;
+            padding: 30px;
+            background-color: white;
+            border: 1px solid #ddd;
+        }
+
+        h1 {
+            color: #2e7d32;
+            text-align: center;
+        }
+
+        h2, h3, h4, h5 {
+            color: #2e7d32;
+            margin-top: 30px;
+        }
+
+        p {
+            color: #555;
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        img {
+            width: 300px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 25px 0;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+    <div class="container">
+
+        <h1>My Canada Trip</h1>
+
+        <hr>
+
+
+        <!-- My Hobbies -->
+
+        <div class="section">
+
+            <h2>My Hobbies</h2>
+
+            <p>
+                My hobby is searching for some wonderful games
+                and playing them.
+            </p>
+
+            <img src="https://th.bing.com/th/id/OIP.jUjJkGLZkFT94TvI3tyZ9QHaEK?w=300&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3">
+
+        </div>
+
+
+        <!-- My Goal -->
+
+        <div class="section">
+
+            <h3>My Goal in Canada</h3>
+
+            <p>
+                My goals in Canada are to design a good website,
+                learn about the local culture, experience a different
+                environment, and learn about the education system.
+            </p>
+
+        </div>
+
+
+        <!-- Favourite Place -->
+
+        <div class="section">
+
+            <h4>My Favourite Place</h4>
+
+            <p>
+                My favourite place is Nathan Phillips Square
+                and Toronto City Hall. I enjoyed seeing the city
+                and learning more about Toronto.
+            </p>
+
+            <img src="https://th.bing.com/th/id/OIP.WQj0nKkTy3mJb39Viro-UQHaEo?w=268&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3">
+
+        </div>
+
+
+        <!-- Technology -->
+
+        <div class="section">
+
+            <h5>The Technology I Saw in Toronto</h5>
+
+            <p>
+                One interesting technology I saw in Toronto
+                was the traffic light system at the crossroads.
+                It helped me understand how technology can make
+                a city safer and more convenient.
+            </p>
+
+            <img src="https://th.bing.com/th/id/OIP.izWwx_g38A5SG9Oao1E82AHaEv?w=272&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3">
+
+        </div>
+
+
+        <hr>
+
+
+        <!-- Royal Ontario Museum -->
+
+        <div class="section">
+
+            <h2>A Place I Visited in Toronto</h2>
+
+            <p>
+                I also visited the Royal Ontario Museum in Toronto.
+                It is a famous museum with many interesting collections.
+                I saw dinosaur fossils and skeletons there.
+            </p>
+
+             <img src="museum1.jpg" width="500">
+
+            <p>
+                The dinosaur skeletons were very impressive.
+                They helped me imagine what animals looked like
+                millions of years ago.
+            </p>
+
+            <img src="museum2.jpg" width="500">
+
+            <p>
+                Visiting the museum made me more interested in
+                science and history. I also learned that museums
+                can make knowledge more interesting through
+                real objects and exhibitions.
+            </p>
+
+        </div>
+
+
+        <hr>
+
+
+        <p style="text-align:center; color:#888;">
+            My Canada Study Trip · 2026
+        </p>
+
+    </div>
+
+</body>
+
+</html>
